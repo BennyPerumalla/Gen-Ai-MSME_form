@@ -1,0 +1,18 @@
+msme_credit_platform/
+│
+├── backend/
+│   ├── app.py
+│   ├── models.py
+│   ├── routes.py
+│   ├── database.py
+│   ├── ai_credit_assessment.py
+│   └── requirements.txt
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── App.js
+│   │   └── index.js
+│   └── package.json
+│
+└── README.md
